@@ -135,17 +135,6 @@ list-widget/
 
 ---
 
-## 📝 Notes
-
-> **Important:** The repository currently contains the **default Flutter template** – you will need to modify `/lib/main.dart` to implement the list widget functionality.
->
-> **Assets:** The `fonts/` folder is present for custom typography if needed.
->
-> **Language:** Language breakdown shows C++/CMake due to Flutter's engine dependencies, but the app code is 100% Dart.
->
-> **Naming:** The project name `list_widget` suggests the focus is on demonstrating Flutter's list capabilities.
-
----
 
 ## 👤 Maintainer
 
